@@ -1,0 +1,30 @@
+1.) If you not pass anything in function it will still able to call but the value is undefined
+
+ORGANIZE COMMANDS:-
+// 1.)input  -> directory Path Given
+// 2.)create -> organized files directory
+// 3.) identify categories of all the files present in input directory
+// 4.) copy/cut all the files  inside any categories of organized directory
+
+
+
+
+
+
+
+//For putting something in the console:-
+//Search Sheban Syntax For that particular language in the google
+//In this search for node.js
+//1.)Then you have to insert into main.js make sure folder should be small letter
+ //2.)Then  run the command npm init -y it will create package.json
+ //3.) Then in package.json you have to add  bin
+
+
+
+
+
+SYNTAX :
+
+"bin":{
+    "command name":"fileName"
+}
