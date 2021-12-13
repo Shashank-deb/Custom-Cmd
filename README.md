@@ -28,7 +28,7 @@
     # help 
     - THIS COMMAND HELP US TO SHOW ALL THE CUSTOM COMMANDS THAT WE HAVE IMPLEMENTED
 
-    - Command :  run help 
+    - Command :  cli help 
     # start
 
     - THIS COMMAND HELP US TO START THE APPLICATION
