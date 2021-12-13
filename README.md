@@ -12,10 +12,10 @@
 
  # Tech Stack
   - JAVASCRIPT    ->  For the  Logic 
- - NODE.js          -> For the functionality
+ - NODE.js        -> For the functionality
 
  - Use Path and File System Module(NODEJS)
- - Using Shebang for making it globally.
+ - Using Shebang Syntax for making it globally.
 
 
     # Implemented Commands
