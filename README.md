@@ -32,16 +32,16 @@
     # start
 
     - THIS COMMAND HELP US TO START THE APPLICATION
-    - Command :  run start  application
+    - Command :  cli start  application
 
     # tree
     - THIS COMMAND HELP US TO SHOW THE HIERARCHY OF FOLDERS
-    - Command : - run tree
+    - Command : - cli tree
 
 
     # organize
     -  THIS COMMAND HELP US TO SEPRATE AND ORGANIZE THE FOLDER
-    - Command : - run organize
+    - Command : - cli organize
 
     # IN THIS PROJECT WE HAVE LEARN ABOUT HOW RECURSION WORKS IN  REAL WORLD PROJECTS
 
